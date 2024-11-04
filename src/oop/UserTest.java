@@ -15,7 +15,23 @@ public class UserTest {
 
     }
 
-   // @Test
+    @Test
+    void getUserName() {
+    }
+
+    @Test
+    void getPassword() {
+    }
+
+    @Test
+    void changeUserName() {
+    }
+
+    @Test
+    void changePassword() {
+    }
+
+    // @Test
     // public void changeUserName() {
 
     //   User user = new User("username", "pwd123");

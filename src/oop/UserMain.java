@@ -1,4 +1,4 @@
-public class User {
+class User {
 
     String userName; // Attribut som tillhör klassen
     String password;
